@@ -11,7 +11,7 @@ export default function Home() {
         </p>
         <p className="text-xl mb-6">Powered by smart contracts on Ethereum.</p>
 
-        <button className="bg-sky-600 px-5 py-3 rounded-lg text-white text-xl">
+        <button className="bg-slate-900 px-5 py-3 text-slate-50 text-xl">
           Take a pledge
         </button>
       </div>
